@@ -20,9 +20,11 @@ Run the calculator:
 calc evaluate <math expression>
 ```
 Ask for help:
-```calc help
 ```
-```calc help evaluate
+calc help
+```
+```
+calc help evaluate
 ```
 
 ## Authors
