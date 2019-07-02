@@ -5,15 +5,11 @@
   "scripts": {},
   "author": "Zack Carlson",
   "license": "ISC",
-  "engines": {
-    "node": ">=8"
-  },
   "keywords": [
     "fraction",
     "calculator",
     "math"
   ],
-  "preferGlobal": true,
   "bin": {
     "calc": "bin/calc"
   },
