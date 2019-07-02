@@ -1,0 +1,25 @@
+{
+  "name": "fraction_calculator",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "Zack Carlson",
+  "license": "ISC",
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "fraction",
+    "calculator",
+    "math"
+  ],
+  "preferGlobal": true,
+  "bin": {
+    "calc": "bin/calc"
+  },
+  "dependencies": {
+    "fractional": "^1.0.0",
+    "minimist": "^1.2.0",
+    "ora": "^3.4.0"
+  }
+}
