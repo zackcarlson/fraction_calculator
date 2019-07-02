@@ -15,9 +15,15 @@ Symlink your binary file to the system path:
 ### Run app
 
 Run the calculator: 
-```calc evaluate <math expression>```
+
+```
+calc evaluate <math expression>
+```
 Ask for help:
-```calc help` or `calc help evaluate```
+```calc help
+```
+```calc help evaluate
+```
 
 ## Authors
 * **Zack Carlson** [Github Profile](https://github.com/zackcarlson)
