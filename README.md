@@ -17,7 +17,11 @@ Symlink your binary file to the system path:
 Run the calculator: 
 
 ```
-calc evaluate <math expression>
+calc evaluate <math-expression>
+
+calc evaluate "1/2 * 3_3/4" // "Result: 1_7/8"
+calc evaluate "2_3/8 + 9/8" // "Result: 3_1/2"
+calc evaluate " -2_3/8 + 9/8" // "Result: -1_1/4"
 ```
 Ask for help:
 ```
